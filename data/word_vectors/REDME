@@ -1,0 +1,5 @@
+Note that different glove models will have different effects on the repair performance.
+In this project, we use glove.840B.300d.zip
+1. Download glove models in "https://nlp.stanford.edu/projects/glove/"
+2. unzip glove.xx.zip
+3. convert glove format to word2vec format by running "python glove2word2vec.py glove.xx.txt"

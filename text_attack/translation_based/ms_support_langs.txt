@@ -1,0 +1,50 @@
+tlh : Klingon
+sw : Kiswahili
+tr : Turkish
+sv : Swedish
+sr-Latn : Serbian (Latin)
+da : Danish
+ro : Romanian
+lt : Lithuanian
+ja : Japanese
+zh-Hans : Chinese Simplified
+mt : Maltese
+th : Thai
+ca : Catalan
+hr : Croatian
+mww : Hmong Daw
+pt : Portuguese
+fr : French
+et : Estonian
+ar : Arabic
+lv : Latvian
+el : Greek
+cs : Czech
+bs : Bosnian (Latin)
+ru : Russian
+sk : Slovak
+is : Icelandic
+fi : Finnish
+nl : Dutch
+ht : Faroese
+cy : Welsh
+hi : Hindi
+id : Indonesian
+vi : Vietnamese
+he : Hebrew
+es : Spanish
+ta : Tamil
+ko : Korean
+fa : Persian
+hu : Hungarian
+de : German
+ms : Malay
+it : Italian
+uk : Ukrainian
+pl : Polish
+af : Afrikaans
+nb : Norwegian
+bn : Bangla
+bg : Bulgarian
+sl : Slovenian
+ur : Urdu
